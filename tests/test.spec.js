@@ -1,9 +1,8 @@
 var loadmanager = require('../loadmanager.js');
 var lm = loadmanager.makeLoadManager();
 
-describe('self tests', function() {
-    it('bla', function() {
-        lm.add('test');
-    });
-
-});
+describe ('adding', function() {
+    it('should add these loaders', function() {
+        
+    })
+})
